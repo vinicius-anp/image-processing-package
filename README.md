@@ -18,7 +18,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing
 
 ```bash
-pip install image_processing
+pip install image-processing-vinicius
 ```
 
 ## Author
